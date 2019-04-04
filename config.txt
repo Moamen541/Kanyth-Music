@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=!
-game=Break | !play
+owner=348554915876175902
+prefix=k
+game=Watching Pewdiepie
 stayinchannel=true
-songinstatus=false
-token=NTMxMjI1OTg3ODI5MDcxODgy.DxK29Q.Keso3BNagob-WxrfhDlaYd4fj34
+songinstatus=true
+token=NTYzMjkwNDE5NDA0NzM0NDY0.XKXLgg.Kgy8Btny5Izk0V9yPBIu5xL2LbE
